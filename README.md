@@ -1,4 +1,4 @@
-# counter_block
+# Twit App (This Week inTech)
 
 A new Flutter project.
 
